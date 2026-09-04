@@ -18,3 +18,6 @@ function estPalindrome(mot) {
 
 console.log(estPalindrome("kayak"));
 console.log(estPalindrome("bonjour"));
+console.log(estPalindrome("radar"));
+console.log(estPalindrome("ressasser"));
+console.log(estPalindrome("exceptionnel"));
